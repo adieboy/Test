@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  background-size: cover;
+  
+}
+* {
+  color: white;
+}
+
+img{
+  float: left ;
+  padding-left: 100px;
+}
+
+footer{
+
+  clear: both;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  /* 5PX = SIZE OF THE BORDER / DASHED WHAT KIND OF BORDER / PURPLE IS THE COLOR OF THE BORDER */
+  border: 5px none purple;
+  cursor: pointer;
+}
+
+li{
+  color: white;
+  list-style: none;
+  display: inline-block;
+}
